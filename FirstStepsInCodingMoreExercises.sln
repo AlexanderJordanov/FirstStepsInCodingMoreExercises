@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrapeziodArea", "TrapeziodArea\TrapeziodArea.csproj", "{4D403085-4494-4DC0-B78B-0F9ECEE62409}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriangleArea", "TriangleArea\TriangleArea.csproj", "{DD4886EF-B362-46D9-A87A-1F4E087BD53C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CelsiusToFahrenheit", "CelsiusToFahrenheit\CelsiusToFahrenheit.csproj", "{91B8E2C8-FB73-4D58-8794-16FCCD20E62E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VegetableMarket", "VegetableMarket\VegetableMarket.csproj", "{E27FB4C3-46AE-4E21-BAF7-BA81E7008066}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fishland", "Fishland\Fishland.csproj", "{82072B5A-54A0-46FC-88FB-B5EB585A17BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherForecast", "WeatherForecast\WeatherForecast.csproj", "{6C0B96E2-8149-4CE7-AFB4-FF5E74186B4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherForecastPart2", "WeatherForecastPart2\WeatherForecastPart2.csproj", "{34FD2C4F-A858-440B-8714-4377EAAB4860}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D403085-4494-4DC0-B78B-0F9ECEE62409}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D403085-4494-4DC0-B78B-0F9ECEE62409}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D403085-4494-4DC0-B78B-0F9ECEE62409}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D403085-4494-4DC0-B78B-0F9ECEE62409}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD4886EF-B362-46D9-A87A-1F4E087BD53C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD4886EF-B362-46D9-A87A-1F4E087BD53C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD4886EF-B362-46D9-A87A-1F4E087BD53C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD4886EF-B362-46D9-A87A-1F4E087BD53C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91B8E2C8-FB73-4D58-8794-16FCCD20E62E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91B8E2C8-FB73-4D58-8794-16FCCD20E62E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91B8E2C8-FB73-4D58-8794-16FCCD20E62E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91B8E2C8-FB73-4D58-8794-16FCCD20E62E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E27FB4C3-46AE-4E21-BAF7-BA81E7008066}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E27FB4C3-46AE-4E21-BAF7-BA81E7008066}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E27FB4C3-46AE-4E21-BAF7-BA81E7008066}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E27FB4C3-46AE-4E21-BAF7-BA81E7008066}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82072B5A-54A0-46FC-88FB-B5EB585A17BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82072B5A-54A0-46FC-88FB-B5EB585A17BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82072B5A-54A0-46FC-88FB-B5EB585A17BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82072B5A-54A0-46FC-88FB-B5EB585A17BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C0B96E2-8149-4CE7-AFB4-FF5E74186B4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C0B96E2-8149-4CE7-AFB4-FF5E74186B4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C0B96E2-8149-4CE7-AFB4-FF5E74186B4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C0B96E2-8149-4CE7-AFB4-FF5E74186B4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34FD2C4F-A858-440B-8714-4377EAAB4860}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34FD2C4F-A858-440B-8714-4377EAAB4860}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34FD2C4F-A858-440B-8714-4377EAAB4860}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34FD2C4F-A858-440B-8714-4377EAAB4860}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3388883-A6EF-4115-8537-5884680BCAF4}
+	EndGlobalSection
+EndGlobal
